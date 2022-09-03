@@ -1,0 +1,24 @@
+{
+    "name": "lightpad",
+    // "dockerFile": "Dockerfile",
+    "image": "debian:buster",
+    "runArgs": [
+        "--name=lighpad"
+        // "--network=highhouse_network",
+        // "--privileged"
+    ],
+    "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash"
+    },
+    "remoteEnv": {
+    },
+    "extensions": [
+        "prince781.vala"
+    ],
+    "appPort": [
+        "8000:8000"
+    ],
+    "forwardPorts": [
+        8080
+    ]
+}
