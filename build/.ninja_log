@@ -1,0 +1,22 @@
+# ninja log v5
+0	875	1662212174	com.github.libredeb.lightpad@exe/src/Application.c	9d7349fab06a3161
+0	875	1662212174	com.github.libredeb.lightpad@exe/src/DesktopEntries.c	9d7349fab06a3161
+0	875	1662212174	com.github.libredeb.lightpad@exe/src/Utilities.c	9d7349fab06a3161
+0	875	1662212174	com.github.libredeb.lightpad@exe/src/Color.c	9d7349fab06a3161
+0	875	1662212174	com.github.libredeb.lightpad@exe/src/Resources.c	9d7349fab06a3161
+0	875	1662212174	com.github.libredeb.lightpad@exe/src/Config.c	9d7349fab06a3161
+0	875	1662212174	com.github.libredeb.lightpad@exe/src/Widgets/CompositedWindow.c	9d7349fab06a3161
+0	875	1662212174	com.github.libredeb.lightpad@exe/src/Widgets/Searchbar.c	9d7349fab06a3161
+0	875	1662212174	com.github.libredeb.lightpad@exe/src/Widgets/Indicators.c	9d7349fab06a3161
+0	875	1662212174	com.github.libredeb.lightpad@exe/src/Widgets/AppItem.c	9d7349fab06a3161
+888	1526	1662212175	com.github.libredeb.lightpad@exe/meson-generated_src_Resources.c.o	a420f2e2e777efd6
+880	1879	1662212175	com.github.libredeb.lightpad@exe/meson-generated_src_Color.c.o	79d638635ccbe89e
+894	1895	1662212175	com.github.libredeb.lightpad@exe/meson-generated_src_Config.c.o	6258808ac5aeceb
+1527	2770	1662212176	com.github.libredeb.lightpad@exe/meson-generated_src_Widgets_CompositedWindow.c.o	296749bc91772a1e
+877	2940	1662212176	com.github.libredeb.lightpad@exe/meson-generated_src_Utilities.c.o	54380d1be6b2f40
+875	3003	1662212176	com.github.libredeb.lightpad@exe/meson-generated_src_DesktopEntries.c.o	40e4ca730f48454e
+875	3114	1662212177	com.github.libredeb.lightpad@exe/meson-generated_src_Application.c.o	2a43db72ff6b6af6
+1880	3140	1662212177	com.github.libredeb.lightpad@exe/meson-generated_src_Widgets_Searchbar.c.o	c51f5d4569a7c8c
+1896	3270	1662212177	com.github.libredeb.lightpad@exe/meson-generated_src_Widgets_Indicators.c.o	90c7da0e12a24125
+2774	3611	1662212177	com.github.libredeb.lightpad@exe/meson-generated_src_Widgets_AppItem.c.o	12497d6ef2c6d9c4
+3611	4253	1662212178	com.github.libredeb.lightpad	858b97f55654ddeb
