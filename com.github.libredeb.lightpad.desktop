@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Applications
+GenericName=Application Launcher
+Comment=Lightweight, look nice and powerful application launcher
+Categories=GNOME;GTK;Utility;
+Exec=/opt/lightpad/com.github.libredeb.lightpad
+Icon=start-here-symbolic
+Terminal=false
+Type=Application
+; NoDisplay=true
+StartupNotify=false
